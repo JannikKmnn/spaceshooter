@@ -1,0 +1,36 @@
+﻿  Main.cpp
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(59,42): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(68,43): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(77,38): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(92,43): warning C4244: "Argument": Konvertierung von "T" in "unsigned int", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(303,43): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(313,42): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(347,42): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(357,43): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(376,49): warning C4244: "Argument": Konvertierung von "T" in "unsigned int", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(393,44): warning C4244: "Argument": Konvertierung von "T" in "unsigned int", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(441,47): warning C4244: "Argument": Konvertierung von "const float" in "unsigned int", möglicher Datenverlust
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(441,32): warning C4244: "Argument": Konvertierung von "const float" in "unsigned int", möglicher Datenverlust
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(454,43): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(460,42): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(496,12): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(504,13): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(566,22): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(571,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(578,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(579,22): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(607,22): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Jannik\Desktop\C++\SpaceShooter\SpaceShooter\Main.cpp(612,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  SpaceShooter.vcxproj -> C:\Users\Jannik\Desktop\C++\SpaceShooter\Debug\SpaceShooter.exe
